@@ -1,0 +1,2 @@
+# mso_getArenaTicketValues
+MSOのアリーナチケットの相場を取得するブックマークレットです。
